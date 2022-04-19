@@ -1,0 +1,33 @@
+body{
+  font-family:"Open Sans", sans-serif;
+  font-size: 150%;text-align:center;
+ background-image:url('bj.png');
+  }
+h1 {
+    font-size:30px;
+}
+
+table,td,th
+{
+	border:1px solid black;
+}
+table
+{
+	width:100%;
+}
+th
+{
+	height:50px;
+}
+td
+{
+	text-align:left;
+  font-size:14px;
+  background-color:red;
+	color:black;
+}
+th
+{
+	background-color:black;
+	color:white;
+}
